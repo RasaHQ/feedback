@@ -1,0 +1,19 @@
+intents:
+- greet
+- inform_happy
+
+actions:
+- utter_goodbye
+- utter_greet
+- utter_happy
+
+entities:
+- name
+
+templates:
+  utter_greet:
+  - text: "Hey! How are you?"
+  utter_happy:
+  - text: "Great, carry on!"
+  utter_goodbye:
+  - text: "Bye"
