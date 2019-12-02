@@ -55,8 +55,19 @@ No story structure conflicts found.
 You can now decide if you want to increase the max_history of your policies, or if you want to change one of your stories.
 Note, that the names of your stories have to be unique. Otherwise, the script will tell you about the duplicate names and not continue until you have fixed this.
 
-Try it yourself! Just [install rasa from source](https://rasa.com/docs/rasa/user-guide/installation/#building-from-source) in a new environment and checkout the story-tree-1 branch with `git checkout story-tree-1`. 
-Then go to your favourite project and run `rasa data validate stories --max-history 5` (or other `max-history` settings).
+## Setup
+
+Try it yourself! 
+Just follow these steps to explore the examples in this feedback repo:
+
+1. [Install rasa from source](https://rasa.com/docs/rasa/user-guide/installation/#building-from-source)
+2. In the Rasa repo, `~/rasa` say, do `git checkout story-tree-1`
+3. Run `pip install -e .` in the Rasa repo
+4. Clone this (feedback) repo into a different directory, say `~/feedback`
+
+Once you have installed rasa from source and checked out the `story-tree-1` branch, you can also test the tool on your favourite project.
+
+## Feedback
 
 You could help us a great deal by giving us feedback on the following questions:
 1. Is rasa data validate stories the best place for this functionality?
@@ -65,9 +76,4 @@ You could help us a great deal by giving us feedback on the following questions:
 4. Is it straightforward to find and resolve these conflicts, or would you like more insights from the output?
 We are looking forward to your feedback!
 
-## Setup
 
-1. [Install rasa from source](https://rasa.com/docs/rasa/user-guide/installation/#building-from-source)
-2. In the Rasa repo, `~/rasa` say, do `git checkout story-tree-1`
-3. Run `pip install -e .` in the Rasa repo
-4. Clone this (feedback) repo into a different directory, say `~/feedback`
