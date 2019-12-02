@@ -57,6 +57,6 @@ We are looking forward to your feedback!
 ## Setup
 
 1. [Install rasa from source](https://rasa.com/docs/rasa/user-guide/installation/#building-from-source)
-2. In the rasa repo, do `git checkout story-tree-1`
-3. Run `pip install -e .`in the Rasa repo, just in case
-3. Clone this repo into a different directory
+2. In the Rasa repo, `~/rasa` say, do `git checkout story-tree-1`
+3. Run `pip install -e .` in the Rasa repo
+4. Clone this (feedback) repo into a different directory, say `~/feedback`
