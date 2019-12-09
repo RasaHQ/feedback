@@ -7,9 +7,6 @@ actions:
 - utter_greet
 - utter_happy
 
-entities:
-- name
-
 templates:
   utter_greet:
   - text: "Hey! How are you?"

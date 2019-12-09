@@ -6,7 +6,7 @@
   - utter_goodbye
 
 ## Story 2
-* greet{"name": "Bruce Wayne"}
+* greet
   - utter_greet
 * inform_happy
   - utter_goodbye
