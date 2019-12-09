@@ -1,5 +1,3 @@
-# User Feedback Demos
+# Files for user feedback demos
 
-Hello Contributors!
-If you want to try out new experimental features, you've come to the right place! 
-Go ahead, and explore the subdirectories.
+Repository for example projects used for user feedback.
