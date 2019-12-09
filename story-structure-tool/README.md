@@ -1,4 +1,4 @@
-# Story Structure Tool
+# Story Structure Validation Tool
 
 ## Introduction
 
