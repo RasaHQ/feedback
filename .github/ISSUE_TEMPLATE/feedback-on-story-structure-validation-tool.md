@@ -16,5 +16,5 @@ assignees: JEM-Mosig
 <!-- your answer here -->
 2. Are the conflicts that you find (especially in your own projects) correct?
 <!-- your answer here -->
-3. Is it straightforward to find and resolve these conflicts, or would you like more insights from the output?
+3. Is it straightforward to find and resolve these conflicts?
 <!-- your answer here -->
